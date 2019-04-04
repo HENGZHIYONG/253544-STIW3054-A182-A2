@@ -66,5 +66,16 @@ http:
 -----------------------------------------------------------------
 6. References
 -----------------------------------------------------------------
-http:
+
+◘ MKYong, (2017, July 24). PDFBox – How to read PDF file in Java. Retrieved from https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
+
+◘ How to use java.time.LocalDate 
+https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html
+
+◘ How to use PDFBox and install
+https://www.tutorialspoint.com/pdfbox/pdfbox_environment.htm
+
+◘The Apache PDFBox® library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command-line utilities. Apache PDFBox is published under the Apache License v2.0.
+https://pdfbox.apache.org/
+
 
